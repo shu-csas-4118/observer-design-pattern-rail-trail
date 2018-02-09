@@ -1,0 +1,7 @@
+{
+  "name": "observer-design-pattern-rail-trail",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.18.2"
+  }
+}
