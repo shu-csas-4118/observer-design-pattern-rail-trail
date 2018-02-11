@@ -1,2 +1,4 @@
 # observer-design-pattern
-Observer design pattern example
+Adriano Soares
+
+Observer Design Pattern demo in Node.js
